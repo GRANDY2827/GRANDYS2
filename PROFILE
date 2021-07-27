@@ -6,47 +6,6 @@
 <img src="Streaks.png" width="100%">
 <h4 align="center"><a href="https://isabel-lifu-211207-xprado.github.io/T1-HTML-Assignment/About_the_author.html">Here's</a> a website about me and my pets. <br><hr></h4>
 
-<p align="center">
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views-->
-	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
-	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
-	<a href="https://github.com/Brizyyy"><img src="https://img.shields.io/badge/Shoutout%20to-Brianna-purple"></a> <!--Shoutout for Brianna!-->
-	<br> <h3 align="center">Please visit my organisation's homepage! => https://xpavilion.github.io/<br></h3>
-	<p align="center"><h3 align="center">Supporters:<br></h3>
-	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
-	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-Hacking--Mudkip-333333?style-flat&logo=github"></a> <!--Natascha-->
-	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Jeremy--Tsai--310206--XJOSH-333333?style-flat&logo=github"></a> <!--Jeremy-->
-	<a href="https://github.com/valerimatical"><img src="https://img.shields.io/badge/-Valerimatical-333333?style-flat&logo=github"></a> <!--Valerie-->
-	<a href="https://github.com/SuperNova7"><img src="https://img.shields.io/badge/-SuperNova7-333333?style-flat&logo=github"></a> <!--Supernova7-->
-	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a> <!--Mr. Henley-->
-	<a href="https://github.com/specialist-mathematics"><img src="https://img.shields.io/badge/-Specialist--Mathematics-333333?style-flat&logo=github"></a> <!--SM-->
-	<a href="https://github.com/teethtastegood"><img src="https://img.shields.io/badge/-Teethtastegood-333333?style-flat&logo=github"></a> <!--Charlotte-->
-	<a href="https://github.com/brizyyy"><img src="https://img.shields.io/badge/-Brizyyy-333333?style-flat&logo=github"></a> <!--Brianna-->
-	<a href="https://github.com/lahonathon"><img src="https://img.shields.io/badge/-LaHonathon-333333?style-flat&logo=github"></a> <!--Lh(n)-->
-	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-MuLKy--Bot-333333?style-flat&logo=github"></a> <!--Samuel-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado"><img src="https://img.shields.io/badge/By-Isabel%20Lifu-grey?logo=spotify"></a> <!--I pioneered spotify! I am an entrepreneur!-->
-
-<p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/Apple-Isabel%20Lifu-99A5FF?logo=apple"> </a><!--Apple-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/Discord--%E2%88%AF%E6%88%91%E7%9C%9F%E7%9A%84%E7%88%B1%E4%BD%A0%E2%8A%89%E2%8A%B73520-333?logo=discord"> </a><!--Discord-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> </a><!--CSS-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> </a><!--Dreamweaver-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft%20Excel"> </a><!--Excel-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github"> </a><!--GitHub-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Grammarly-333333?style=flat&logo=Grammarly"> </a><!--Grammarly-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> </a><!--HTML-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> </a><!--JavaScript-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> </a><!--Khan Academy-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft%20onedrive"> </a><!--OneDrive-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> </a><!--Pokémon-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> </a><!--Python-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Tampermonkey-333333?style=flat&logo=Tampermonkey"> </a><!--Tampermonkey-->
-	<a href="https://github.com/Isabel-Lifu-211207-XPrado">	<img src="https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=Windows"> </a><!--Windows-->
-</p>
-
-</p>
 
 <div align="left">
 	
