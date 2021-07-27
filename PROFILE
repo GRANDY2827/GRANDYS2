@@ -54,7 +54,7 @@
 
 - 💻 All of my projects are available in my classroom of Math books I've written! Only about 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986828034825% of my work is done in [Desmos](https://www.desmos.com/calculator/wdnrf65gtc)! 
 
-- 🥇 I'm most experienced with Vector Calculus and Further Graphing Techniques!
+- 🥇 
 
 - 🌱 I’m currently learning how to prove all sorts of cool trigonometric identities using complex numbers in their polar form! I'm looking forward to learn how they can be applied in matrices!
 - 🏆 If you have any questions you can't solve within the year 11 [Specialist Mathematics](https://github.com/Specialist-Mathematics) curriculum for Queensland, ask [me](mailto:ba004745@bac.qld.edu.au) or [Prado](mailto:pradolifu@gmail.com)! 
